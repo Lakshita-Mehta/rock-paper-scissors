@@ -16,4 +16,7 @@ A simple Rock-Paper-Scissors game built using HTML, CSS, and JavaScript.
 
 
 ## 📂 How to Run the Game  
-🔗 Lakshita-Mehta/rock-paper-scissors
+git clone https://github.com/Lakshita-Mehta/rock-paper-scissors.git
+2. Open the folder and double-click `index.html` to launch the game in your browser.  
+3. Play and enjoy! 🎮  
+
